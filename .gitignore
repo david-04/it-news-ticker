@@ -1,0 +1,7 @@
+/docs/assets/*.js.map
+/docs/assets/*.css.map
+/docs/assets/favicon/favicon.png
+/docs/assets/favicon/preview.gif
+/docs/assets/favicon/*.tmp.*
+/node_modules
+/build
