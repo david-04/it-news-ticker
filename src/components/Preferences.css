@@ -1,0 +1,35 @@
+.Preferences {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: start;
+    flex-wrap: wrap;
+    gap: 1.5em;
+}
+
+.Preferences>div {
+    width: auto;
+    flex-wrap: no-wrap;
+}
+
+.Preferences .input-group>* {
+    min-width: 4em;
+    text-align: center;
+}
+
+
+.Preferences .font-size-preference button div {
+    overflow: hidden;
+}
+
+.Preferences .font-size-preference .make-smaller {
+    font-size: 0.8em;
+}
+
+.Preferences .font-size-preference .make-larger {
+    font-size: 1.0em;
+}
+
+.Preferences .font-size-preference .current-font-size {
+    display: inline-block;
+}
