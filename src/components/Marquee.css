@@ -1,0 +1,30 @@
+.Marquee {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(206, 0, 0);
+    color: white;
+    margin-bottom: 3rem;
+}
+
+.Marquee>p {
+    white-space: nowrap;
+    animation: marquee-animation 80s infinite linear;
+    margin: 0;
+    padding: 0.1em 0 0.2em 0;
+    width: 8192px;
+}
+
+.Marquee>p:after {
+    content: "IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - IT NEWS TICKER - ";
+}
+
+@keyframes marquee-animation {
+    0% {
+        transform: translateX(0)
+    }
+
+    100% {
+        transform: translateX(-50%)
+    }
+}

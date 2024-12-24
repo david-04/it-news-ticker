@@ -1,0 +1,14 @@
+{
+    "dependencies": {
+        "@types/remarkable": "^2.0.8",
+        "bootstrap": "^5.3.3",
+        "preact": "*",
+        "remarkable": "^2.0.1"
+    },
+    "name": "web",
+    "version": "0.0.0",
+    "private": true,
+    "license": "UNLICENSED",
+    "type": "module",
+    "swpm": "npm"
+}

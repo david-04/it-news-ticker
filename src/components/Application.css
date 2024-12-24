@@ -1,0 +1,20 @@
+html,
+body,
+#app,
+.Application {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    overflow-y: scroll;
+}
+
+
+.Application>.end-of-page-spacer {
+    height: 0.1em;
+}
+
+.Application>div>.message {
+    margin-top: 10vh;
+}

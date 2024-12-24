@@ -1,0 +1,12 @@
+.Edition>ul>li {
+    padding: 1rem;
+    border: 1px solid silver;
+}
+
+.Edition:not(:last-child) {
+    padding-bottom: 3em;
+}
+
+.Edition:last-child {
+    padding-bottom: 0.75rem;
+}

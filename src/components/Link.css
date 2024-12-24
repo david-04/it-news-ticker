@@ -1,0 +1,10 @@
+.Link {
+    border-top: 1px solid silver;
+    margin-top: 1em;
+    padding-top: 0.5em;
+    padding-bottom: 0.0em;
+}
+
+.Link>a {
+    text-decoration: none;
+}
