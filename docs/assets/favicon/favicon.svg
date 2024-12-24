@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="10mm"
+   height="10mm"
+   viewBox="0 0 10 10"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="favicon.png"
+   inkscape:export-xdpi="40.639999"
+   inkscape:export-ydpi="40.639999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="15.707398"
+     inkscape:cx="7.6397122"
+     inkscape:cy="23.396619"
+     inkscape:window-width="2560"
+     inkscape:window-height="1329"
+     inkscape:window-x="-8"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458333"
+       empcolor="#3f3fff"
+       empopacity="0.25098039"
+       color="#3f3fff"
+       opacity="0.1254902"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop6" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop7" />
+    </linearGradient>
+    <rect
+       x="40.011257"
+       y="-21.824322"
+       width="62.313214"
+       height="51.253453"
+       id="rect2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient7"
+       x1="5.1038847"
+       y1="-6.7686734"
+       x2="5.0982485"
+       y2="-0.030871769"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:url(#linearGradient7);stroke-width:0.475284;stroke-linecap:round;stroke-miterlimit:0;stroke-dasharray:none"
+       id="rect1"
+       width="9.5247154"
+       height="9.5247164"
+       x="0.23764175"
+       y="-9.7623587"
+       transform="scale(1,-1)"
+       ry="1.6221943" />
+    <rect
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.365426;stroke-linecap:round;stroke-miterlimit:0;stroke-opacity:1"
+       id="rect3"
+       width="10"
+       height="3.5990887"
+       x="2.7755576e-17"
+       y="6.4009113" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.13733463,0,0,0.13197106,-6.2237356,5.2531582)"
+       id="text2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:25px;font-family:Arial;-inkscape-font-specification:Arial;text-align:end;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect2);display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
+         x="63.197395"
+         y="1.7059581"
+         id="tspan7"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000"
+           id="tspan1">I</tspan><tspan
+           style="font-weight:bold;font-size:12.8853px;-inkscape-font-specification:'Arial Bold'"
+           id="tspan3"> </tspan><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Arial Bold';fill:#000000"
+           id="tspan6">T</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.23758px;line-height:2.02349px;font-family:'Henny Penny';-inkscape-font-specification:'Henny Penny';text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:none;stroke:#000000;stroke-width:0.0484471px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="9.9788322"
+       y="9.0719099"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.23758px;line-height:2.02349px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0484471px;stroke-opacity:1"
+         x="9.9788322"
+         y="9.0719099">▮▬▯▮■</tspan></text>
+  </g>
+</svg>
